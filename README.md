@@ -2,7 +2,7 @@
 
 Coursework from the OOAD course (1DV607) at Linnaeus University. Two team assignments focused on applying design patterns and SOLID/GRASP principles in Java.
 
-This is one of the few courses in my program that used **Java** rather than JavaScript/Python, and it was centered entirely on object-oriented design rather than web development.
+This course used **Java** and was centered entirely on object-oriented design rather than web development.
 
 ## Assignments
 
